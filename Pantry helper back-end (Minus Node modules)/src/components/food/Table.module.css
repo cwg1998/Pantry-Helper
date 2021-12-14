@@ -1,0 +1,14 @@
+/*
+Author: Christopher Gregg
+Purpose: .css File to help make the tables more presentable 
+*/ 
+table {
+   text-align: center;
+    border: 1px solid #8a2b06;
+    background-color: white;
+    align-items: center;
+    padding: 20px;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
